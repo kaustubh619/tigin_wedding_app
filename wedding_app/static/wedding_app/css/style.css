@@ -1084,44 +1084,13 @@ select.form-control:not([size]):not([multiple]){
 	color: #63c7bd;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.contact-link {
+	display: inline-block;
+}
+.contact-link a {
+	background: #881228;
+	color: #ffffff;
+	padding: 5px 10px;
+	font-size: 10px;
+	font-weight: 500;
+}
