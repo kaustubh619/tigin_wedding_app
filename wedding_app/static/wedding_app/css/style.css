@@ -1085,7 +1085,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .contact-link {
-	display: inline-block;
+	/*display: inline-block;*/
 }
 .contact-link a {
 	background: #881228;
