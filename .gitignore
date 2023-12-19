@@ -1,0 +1,7 @@
+.idea
+*.dll
+__pycache__
+*.dll
+venv
+.idea
+__pycache__

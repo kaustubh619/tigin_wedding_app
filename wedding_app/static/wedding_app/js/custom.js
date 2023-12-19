@@ -86,7 +86,7 @@
 			image: {
 				tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
 				titleSrc: function(item) {
-					return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+					return '<small>Tigin & Aleena</small>';
 				}
 			}
 		});
@@ -113,7 +113,7 @@
     Countdown Clock
     ................................................. */
 	function makeTimer() {
-		var endTime = new Date("27 January 2024 00:00:00 GMT+05:30");			
+		var endTime = new Date("27 January 2024 11:00:00 GMT+05:30");
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();

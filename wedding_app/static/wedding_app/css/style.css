@@ -802,6 +802,14 @@ button:focus{
 	padding: 70px 0px;
 }
 
+.couple-gallery {
+	background: url(../images/ptn-bg.jpg);
+}
+
+.groom-family-gallery{
+	background: url(../images/ptn-bg.jpg);
+}
+
 .gallery-box ul{}
 .gallery-box ul li{
 	position: relative;
@@ -954,7 +962,7 @@ button:focus{
 	background: #ffffff;
 	text-align: center;
 	margin-bottom: 30px;
-	border: 10px solid #fff;
+	/*border: 10px solid #fff;*/
 	box-shadow: 0 2px 5px rgba(0,0,0,.1);
 }
 
@@ -977,12 +985,20 @@ button:focus{
 	color: #ffffff;
 	padding: 5px 10px;
 	display: inline-block;
-	font-size: 18px;
+	font-size: 10px;
 	font-weight: 500;
 	text-transform: uppercase;
 }
 .event-inner a:hover{
 	background: #63c7bd;
+}
+
+.event-inner p {
+	font-size: 13px;
+}
+
+.tourist-places-box {
+	background: url(../images/ptn-bg.jpg);
 }
 
 /*------------------------------------------------------------------
@@ -1058,6 +1074,7 @@ select.form-control:not([size]):not([multiple]){
 	text-align: center;
 	margin: 0px;
 	color: #ffffff;
+	font-size: 10px;
 }
 
 .footer-box .footer-company-name a{
