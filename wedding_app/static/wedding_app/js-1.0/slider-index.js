@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-	$('#js-main-slider').pogoSlider({
+	$('#js-1.0-main-slider').pogoSlider({
 		autoplay: true,
 		autoplayTimeout: 5000,
 		displayProgess: true,
