@@ -1078,7 +1078,8 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a{
-	color: #881228;
+	color: #ffa500;
+	font-weight: bold;
 }
 .footer-box .footer-company-name a:hover{
 	color: #63c7bd;
